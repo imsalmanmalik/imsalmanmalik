@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Salman Malik, Learning and working with Data Science, Data Engineering, Data Analysis and Machine Learning 👨‍💻 🚀</div>  
+### <div align="center">I'm Salman Malik, Learning and working with DevOps, Data Science, Data Engineering, Data Analysis and Machine Learning 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m learning about Machine Learning  
