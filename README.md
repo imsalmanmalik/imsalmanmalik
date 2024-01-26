@@ -6,13 +6,16 @@
 ### <div align="center">I'm Salman Malik, Learning and working with DevOps, Data Science, Data Engineering, Data Analysis and Machine Learning 👨‍💻 🚀</div>  
   
 
-- 🔭 I am currently working on cloud-native technologies and CI/CD pipelines  
+- 🔭 I am currently exploring cloud-native technologies and AIOps. 
   
 
-- 🌱 I’m currently learning some best DevOps practices and tools  
+- 🌱 I’m currently working on cutting-edge technologies such as Edge Computing and IoT in DevOps.
   
 
-- ❓ Ask me about anything related to microservices and container orchestrators  
+- 🐳 Navigating the seas of Kubernetes with best practices for seamless orchestration and scalability.
+
+
+- ❓ Ask me about anything related to Microservices, Service Mesh and Container Orchestrators. 
   
 
 - ⚡ Fun fact: I use tabs over spaces  
